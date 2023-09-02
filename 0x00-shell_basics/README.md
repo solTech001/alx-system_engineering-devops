@@ -1,1 +1,0 @@
-list  current working directory
